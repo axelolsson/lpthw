@@ -3,5 +3,8 @@
 		{
 			"path": "."
 		}
-	]
+  ],
+  "settings": {
+    "python.pythonPath": "/Users/morty/.pyenv/versions/3.6.0/bin/python"
+  }
 }
